@@ -1,0 +1,2 @@
+# PROCSENDEMAIL_SSL-oracle
+在oracle数据库中使用pl/sql代码发送ssl加密的email
